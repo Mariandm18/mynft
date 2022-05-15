@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf721F65Ac4785724962Fd3A65494a63282C1aD07",
+  "SCAN_LINK": "https://polygonscan.com/address/0xf721f65ac4785724962fd3a65494a63282c1ad07",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Urban Boy",
+  "SYMBOL": "UB",
+  "MAX_SUPPLY": 1337,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/urbanboy-nft",
+  "SHOW_BACKGROUND": true
+}
